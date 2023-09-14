@@ -24,7 +24,8 @@ https://github.com/alanjohnck/AI_hub_Application/assets/118127993/bc730391-4e63-
 3.Technologies Used:
 
 --->flutter packages
---->API's
+--->tts package for text to speach
+--->API for text extraction
 --->Animation kits
 --->firebase
 
