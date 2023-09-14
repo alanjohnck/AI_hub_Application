@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "490441441779",
+    "project_id": "genai-eb3c8",
+    "storage_bucket": "genai-eb3c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490441441779:android:091f8960f83e0a501c9286",
+        "android_client_info": {
+          "package_name": "com.example.s_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN78lFNSIiA3aDbWAYqjp2f84u52InwwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
