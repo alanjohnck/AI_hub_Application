@@ -1,6 +1,6 @@
 # AI_hub_application
 
-A new Flutter project.
+my first Flutter project.
 
 1.Ai_hub is a Flutter application designed to make studying easier and more accessible for students. It uses AI-powered text extraction to large texts to summary, offering an immersive learning experience through text-to-speech technology.
 
