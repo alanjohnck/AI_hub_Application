@@ -11,6 +11,14 @@ https://github.com/alanjohnck/AI_hub_Application/assets/118127993/3d87d178-eb91-
 
 --->"Text Extraction: Extract Text from large texts and covert to Small summary using AI."
 
+
+
+
+https://github.com/alanjohnck/AI_hub_Application/assets/118127993/bc730391-4e63-4e3f-af89-e8fa00198334
+
+
+
+
 --->"Text-to-Speech: Convert extracted text into spoken words.we can listen to words by clicking get voice button and we can analyse and learn."
 
 
@@ -20,7 +28,6 @@ https://github.com/alanjohnck/AI_hub_Application/assets/118127993/3d87d178-eb91-
 https://github.com/alanjohnck/AI_hub_Application/assets/118127993/095ed4fb-201b-4f2f-ab84-df38dc2efe36
 
 
-https://github.com/alanjohnck/AI_hub_Application/assets/118127993/bc730391-4e63-4e3f-af89-e8fa00198334
 
 3.Technologies Used:
 
