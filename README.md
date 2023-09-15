@@ -10,7 +10,8 @@ https://github.com/alanjohnck/AI_hub_Application/assets/118127993/3d87d178-eb91-
 2. Features:
 
 --->"Text Extraction: Extract Text from large texts and covert to Small summary using AI."
---->"Text-to-Speech: Convert extracted text into spoken words."
+
+--->"Text-to-Speech: Convert extracted text into spoken words.we can listen to words by clicking get voice button and we can analyse and learn."
 
 
 
@@ -24,9 +25,13 @@ https://github.com/alanjohnck/AI_hub_Application/assets/118127993/bc730391-4e63-
 3.Technologies Used:
 
 --->flutter packages
---->tts package for text to speach
+
+--->tts package for text to speech
+
 --->API for text extraction
+
 --->Animation kits
+
 --->firebase
 
 
