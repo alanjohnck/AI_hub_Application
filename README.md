@@ -9,6 +9,11 @@ https://github.com/alanjohnck/AI_hub_Application/assets/118127993/3d87d178-eb91-
 
 2. Features:
 
+
+![WhatsApp Image 2023-09-16 at 12 57 20 PM](https://github.com/alanjohnck/AI_hub_Application/assets/118127993/0266d2ec-ae65-4a03-9b94-de9a337356d4)
+
+
+
 --->"Text Extraction: Extract Text from large texts and covert to Small summary using AI."
 
 
